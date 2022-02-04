@@ -9,7 +9,7 @@
 
 <br>
 
-## Reflection: (<em> CSS Style sheet in `/assets/style.css`</em>)
+## Reflection: (<em> CSS Style sheet in `css/style.css`</em>)
 1. I was not able to make the Grid layout for the Gallery responsive. It only shrunk. I could not get help during lab time due to time constraints, so I tried to troubleshoot the issue by myself. Found several solutions but nothing changed. 
     - It would not condense into a single column once the screen size got smaller:
       - Tried `autofit` with `grid-auto-columns` and `grid-auto-rows`. 
