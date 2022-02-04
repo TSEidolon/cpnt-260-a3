@@ -2,10 +2,10 @@
 ### by: Edgar Caballero
 
 <strong> Github Repo:</strong>
- - 
+ - https://github.com/TSEidolon/cpnt-260-a3
 
 <strong>Github Pages: </strong>
-  - 
+  - https://tseidolon.github.io/cpnt-260-a3/
 
 <br>
 
