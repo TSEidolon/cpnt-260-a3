@@ -32,6 +32,10 @@
 
 <br>
 
+## Flare:
+ - Shows figcaptions on images when hovered on.
+ - `lines 90-107`
+
 ## Attributions
  - Hogwarts Letter by <a href="https://unsplash.com/photos/tS-jh0M6JoA" target="_blank">&copy;Tuyen Vo</a> 
  - Educational Decrees by <a href="https://unsplash.com/photos/cl8dqBQgRGY" target="_blank">&copy;Rhii Photography</a>
