@@ -42,4 +42,4 @@
  - White Owl by <a href="https://unsplash.com/photos/c1fFv08N7qE" target="_blank">&copy;Frida Lanenstrom</a>
  - Hogwarts Castle Sky by <a href="https://unsplash.com/photos/Ipv_MNTzcQI" target="_blank">&copy;Josipa Juras</a>
  - Hogwarts Lake by <a href="https://unsplash.com/photos/FdJmE0YibvQ" target="_blank">&copy;Gio Almonte</a>
- - The Golden Snitch by <a href="https://filmz.ru/photos/films/1199/#gallery-70" target="_blank">&copy;Filmz</a># cpnt-260-a3
+ - The Golden Snitch by <a href="https://filmz.ru/photos/films/1199/#gallery-70" target="_blank">&copy;Filmz</a>
