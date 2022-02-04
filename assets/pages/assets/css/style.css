@@ -1,0 +1,181 @@
+body {
+  /* width:100%; */
+  height: 100%;
+  background-image: url("../images/Hogwarts-background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size:cover;
+ }
+/**** Header Sections ****/
+/**** Header Sections ****/
+.nav-container {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: #27282a; 
+  box-shadow: 0px 1px #5d7074;
+  border-radius: 8px;
+
+
+}
+.nav-items {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  width: 90%;
+  margin: 10px;
+  padding: 10px;
+  height: 100px;
+}
+.logo-wrapper{
+  flex-grow:2;
+  text-align:center;
+  margin: 10px;
+  line-height: 30px;
+  padding: 10px; 
+  color: #96979b;
+}
+.nav-items li {
+  font-size: 1.6rem;
+  font-family: 'PT Sans Narrow', sans-serif;
+  
+
+}
+.nav-items a{
+  color:#cfd0cb;
+  text-decoration:none;
+}
+.logo-wrapper {
+  font-size: 2.9rem;
+  
+}
+.logo-wrapper a{
+ color: #cfd0cb;
+ text-decoration:none;
+}
+/**** Hover Sections ****/
+.logo-wrapper :hover{
+  transition: color 300ms linear;
+  color:#d1ab4a;
+}
+.nav-items-categories :hover{
+  transition: color 300ms linear;
+  color: #b1a478;
+}
+.nav-platform :hover{
+  transition: color 300ms linear;
+  color: #8d220e;
+}
+/**** Body ****/
+/**** Body ****/
+/* Wrapper */
+.section-logo-wrapper {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: center;
+  flex-direction: column;
+  margin:0;
+  align-items:center;
+  line-height: 80px;
+  padding: 10px; 
+  font-size: 2.1rem;
+  color:#8d220e;
+  text-shadow: 1px 1px #000000;
+
+}
+/* Container */
+.section-container {
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:column;
+
+}
+.section-items-1, .section-items-2 {
+  color: #cfd0cb;
+  display:flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+  padding: 2rem;
+  margin: 10px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  background-color: #27282aa1;
+  font-size:1.5rem;
+  border-radius: 8px;
+}
+.section-items-3 {
+  color: #cfd0cb;
+  display:flex;
+  flex-wrap: wrap;
+  text-align: left;
+  justify-content: center;
+  padding: 2rem;
+  margin: 10px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  background-color: #27282aa1;
+  font-size:1.5rem;
+  border-radius: 8px;
+}
+.section-items-1 img {
+
+    object-fit: contain;
+    width: 40%;
+
+}
+.section-items-2 img {
+  object-fit: contain;
+  width: 40%;
+
+}
+.section-items-3 img {
+  object-fit: contain;
+  width: 40%;
+}
+.section-content{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.section-content ul li {
+ list-style-type: none;
+}
+/* footer */
+footer {
+background-color: #27282a; 
+box-shadow: 0px 1px #5d7074;
+border-radius: 5px;
+display:flex;
+flex-wrap: wrap;
+justify-content:space-around;
+margin: 10px;
+
+
+}
+.footer-text {
+  font-size: 10px;
+  display:flex;
+  flex-wrap: wrap;
+  list-style-type: none;  
+  color: #cfd0cb;
+  gap: 10px;
+}
+.footer-text a {
+  color: #cfd0cb;
+  text-decoration: none;
+}
+/* Media Query */
+@media (min-width: 600px) {
+  html {
+    font-size:1.25rem;
+  }
+}
+@media(max-width:600px){
+  .section-items-1, .section-items-3, .section-items-2{
+    background-color: #27282a;
+    box-shadow: 0px 1px #5d7074;
+    border-radius: 5px;
+  }
+}
